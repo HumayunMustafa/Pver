@@ -1,4 +1,4 @@
 rag_venv
 **/__pycache__/
 vectorstore_*/
-.env
+*.env
